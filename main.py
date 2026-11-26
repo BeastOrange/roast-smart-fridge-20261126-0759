@@ -6,8 +6,8 @@ import os
 from pathlib import Path
 
 ENTRY: str = (
-    "It has four internal cameras and an AI vision model, "
-    "yet it treats half an onion wrapped in foil like an unexploded piece of ordnance."
+    "A $4,000 fridge with four cameras and an AI recipe engine "
+    "that scanned mustard, baking soda, and two beers, then tactfully suggested 'sleep for dinner'."
 )
 
 
